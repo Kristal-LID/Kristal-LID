@@ -3,7 +3,7 @@
 </h1>
 <img width="100%" height="50%" alt="щапка" src="https://github.com/user-attachments/assets/473a16e8-4d4c-4648-9565-771d2bd61606" />
 
-## Student it directions, aspiring DevOps / SRE developer
+## Student IT directions, aspiring DevOps / SRE developer
 ## As part of my studies, I'm involved in backend development and have some experience training neural networks.
 
 ### As part of my hobby, I'm figuring out how to work with home servers, microcontrollers, and what can be made from them.
